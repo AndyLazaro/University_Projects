@@ -1,0 +1,9 @@
+typedef struct
+{
+    char *ItemName;
+    float StatUp;
+    char FirstLetter;
+    char *NameStatUp;
+    int ItemQuality;
+    struct Items*next_ptr;
+}Items;

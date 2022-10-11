@@ -1,0 +1,30 @@
+Bucket of Lard|2.0|B|Health Up|1
+Speed Ball|0.3|S|Speed Up|2
+Soy Milk|5.0|S|Tears Up|2
+Stigmata|0.3|S|Damage Up|2
+Polyphemus|15.0|P|Damage Up|4
+Dinner|1.0|D|Health Up|1
+Evil Charm|2.0|E|Luck Up|1
+Eye Drops|0.5|E|Tears Up|3
+Mercurius|0.4|M|Speed Up|3
+Pluto|0.7|P|Tears Up|3
+Red Stew|21.7|R|Damage Up|0
+Supper|1.0|S|Health Up|1
+Terra|1.7|T|Damage Up|3
+Venus|1.0|V|Health Up|1
+Crown of Light|2.0|C|Damage Up|4
+Epiphora|0.5|E|Tears Up|1
+Mr Dolly|0.7|M|Tears Up|3
+Dads Lost Coin|1.0|D|Luck Up|2
+Dark Prince's Crown|2.0|D|Speed Up|1
+Divorce Papers|0.7|D|Tears Up|2
+The Sad Onion|0.7|T|Tears Up|3
+The Belt|0.3|T|Speed Up|2
+Stem Cells|1.0|S|Health Up|1
+Roid Rage|0.6|R|Speed Up|2
+Money = Power|0.04|M|Damage Up|3
+Latch Key|1.0|L|Luck Up|2
+Sacred Heart|1.0|S|Damage Up|4
+Sausage|0.5|S|Speed Up|3
+It Hurts|0.3|I|Tears Up|1
+Greed's Gullet|1.0|G|Health Up|1
