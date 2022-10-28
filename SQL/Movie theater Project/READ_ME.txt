@@ -27,4 +27,4 @@ READ ME FILE
 6.) Contributions
     ANDY LAZARO    - Creating the database and loading the data
     AIDEN MONDRESS - Creating the ER Diagram for the database
-    RIKKY MARTIN   - Creating the SELECT Queries for the database
+    ANDY LAZARO    - Creating the SELECT Queries for the database
