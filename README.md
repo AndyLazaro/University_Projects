@@ -5,6 +5,6 @@ Each assignment will be tied to the class it was assigned in along with a short 
 
 Major projects will have their own repository in my profile
 
-Thank you for looking!!!
+Thank you for visiting!!!
 
 Andy L,
